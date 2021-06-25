@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "coursejs"
+	},
+	{
+		"path": "../Downloads/Curso JS Moderno"
+	},
+	{
+		"path": "../Downloads/Curso JS Moderno - Fin"
+	}
+],
+"settings": {
+	"liveServer.settings.multiRootWorkspaceName": "Curso JS Moderno"
+}
+}
